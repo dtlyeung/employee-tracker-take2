@@ -1,0 +1,25 @@
+{
+  "name": "we-manage",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtlyeung/employee-tracker-take2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^8.1.2",
+    "mysql2": "^2.2.5"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "description": ""
+}
